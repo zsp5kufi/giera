@@ -1,0 +1,61 @@
+#kwadrat
+{
+	height: 32px;
+	width: 32px;
+	background-image: url("images/hero.png");
+	float: right;
+	border: solid 1px black;
+	position: relative;
+}
+#kwadrat:hover
+{
+	background-color: DarkGray ;
+	cursor: pointer;
+}
+
+#kwadrat2
+{
+	height: 32px;
+	width: 32px;
+	background-image: url("images/hero2.png");
+	float: right;
+	border: solid 1px black;
+	margin-right: 5px;
+		position: relative;
+}
+#kwadrat2:hover
+{
+	background-color: DarkGray ;
+	cursor: pointer;
+}
+#kwadrat3
+{
+	height: 32px;
+	width: 32px;
+	background-image: url("images/hero.png");
+	float: right;
+	border: solid 1px black;
+	margin-right: 120px;
+	v
+}
+#kwadrat3:hover
+{
+	background-color: DarkGray ;
+	cursor: pointer;
+}
+
+#kwadrat4
+{
+	height: 32px;
+	width: 32px;
+	background-image: url("images/hero2.png");
+	float: right;
+	border: solid 1px black;
+	margin-right: 5px;
+		position: relative;
+}
+#kwadrat4:hover
+{
+	background-color: DarkGray ;
+	cursor: pointer;
+}
